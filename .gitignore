@@ -1,0 +1,33 @@
+documentation.docx
+~$*.docx
+
+#GTFS Static Folder
+gtfs_static/
+
+#Database
+gtfs_s.db
+*.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional API keys / temporary files
+config.py
+temp_data/
+
